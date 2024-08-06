@@ -1,25 +1,24 @@
 <br>
 <p align="center">
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=crmulent&rank_icon=github&show_icons=true&theme=dark" alt="Github"></a> -->
 <h1 align="center">💻 Cybersecurity Enthusiast 💻</h1>
 <h3 align="center">Currently building my knowledge on digital forensics and penetration testing</h3>
 <table>
   <tr>
-    <img style="border-radius: 5px" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=crmulent&theme=high-contrast">
+    <img style="border-radius: 5px" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=crmulent&theme=high-contrast&line=9745f5&title_color=9745f5">
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=crmulent&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=crmulent&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage">
     </td>
     <td>
-      <img align="center" src="https://streak-stats.demolab.com?user=crmulent&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff">
+      <img align="center" src="https://streak-stats.demolab.com?user=crmulent&theme=midnight-purple">
     </td>
   </tr>
   <tr>
     <td>
-      <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=crmulent&repo=FaSeek&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff"/>
+      <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=crmulent&repo=FaSeek&theme=midnight-purple&show_owner=true"/>
     </td>
     <td>
-      <img align="center" src="https://github-contributor-stats.vercel.app/api?username=crmulent&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff"/>
+      <img align="center" src="https://github-contributor-stats.vercel.app/api?username=crmulent&limit=3&theme=midnight-purple&show_owner=true&combine_all_yearly_contributions=true"/>
     </td>
   </tr>
 </table>
